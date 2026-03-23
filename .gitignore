@@ -1,0 +1,20 @@
+# 敏感配置文件（本地凭据）
+config.py
+
+# 使用 config.example.py 作为模板
+
+# 日志文件
+*.log
+
+# macOS
+.DS_Store
+
+# Claude 指引文件
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
